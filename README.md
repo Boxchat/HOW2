@@ -7,6 +7,10 @@ In the project directory, you can run:
 
 ### `yarn start`
 
+You need to run this instruction during the project initialization phase (just once). This instruction will help you automatically download all the dependencies required by your project.
+
+### `yarn start`
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
