@@ -5,7 +5,7 @@ The Huanying official website refactored using React.
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn`
 
 You need to run this instruction during the project initialization phase (just once). This instruction will help you automatically download all the dependencies required by your project.
 
