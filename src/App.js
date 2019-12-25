@@ -26,28 +26,28 @@ class HyCarousel extends Component {
           <h3
             className="carousel-item"
             style={{
-              height: `${screenHeight * 0.5}px`,
+              height: `${screenHeight * 0.7}px`,
             }}>1</h3>
         </div>
         <div>
           <h3
             className="carousel-item"
             style={{
-              height: `${screenHeight * 0.5}px`,
+              height: `${screenHeight * 0.7}px`,
             }}>2</h3>
         </div>
         <div>
           <h3
             className="carousel-item"
             style={{
-              height: `${screenHeight * 0.5}px`,
+              height: `${screenHeight * 0.7}px`,
             }}>3</h3>
         </div>
         <div>
           <h3
             className="carousel-item"
             style={{
-              height: `${screenHeight * 0.5}px`,
+              height: `${screenHeight * 0.7}px`,
             }}>4</h3>
         </div>
       </Carousel>
@@ -79,7 +79,7 @@ class App extends Component {
             <Menu.Item key="4">幻影论坛</Menu.Item>
           </Menu>
         </Header>
-        <Content style={{ padding: '0 50px' }}>
+        <Content style={{ padding: '0 0px' }}>
           <HyCarousel />
           <HyFeatures />
         </Content>
