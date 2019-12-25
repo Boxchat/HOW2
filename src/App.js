@@ -9,7 +9,9 @@ import 'moment/locale/zh-cn';
 import 'antd/dist/antd.css';
 import './index.css';
 import './App.css';
+import busComonents from './components'
 const { Header, Content, Footer } = Layout;
+const { HyFeatures } = busComonents
 
 moment.locale('zh-cn');
 
@@ -79,8 +81,9 @@ class App extends Component {
         </Header>
         <Content style={{ padding: '0 50px' }}>
           <HyCarousel />
+          <HyFeatures />
         </Content>
-        <Footer style={{ textAlign: 'center' }}>Huanying Web ©2019 Created by Mathon</Footer>
+        <Footer style={{ textAlign: 'center' }}>Huanying Web ©2019 Created by Mathon Saoshouzi</Footer>
       </Layout>
     );
   }
