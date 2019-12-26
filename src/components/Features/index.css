@@ -1,0 +1,26 @@
+.features{
+    width: 90%;
+    height: 400px;
+    margin: 0 5% 0 5%;
+}
+.features__introduction{
+    width: 30%;
+    height: 400px;
+    float: left;
+    margin: 0 1% 0 1%;
+    border: 1px solid;
+}
+.features__introduction__two{
+    width: 30%;
+    height: 400px;
+    float: left;
+    margin: 0 1% 0 1%;
+    border: 1px solid;
+}
+.features__introduction__three{
+    width: 30%;
+    height: 400px;
+    float: left;
+    margin: 0 1% 0 1%;
+    border: 1px solid;
+}
