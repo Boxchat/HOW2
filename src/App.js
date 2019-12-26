@@ -11,7 +11,7 @@ import './index.css';
 import './App.css';
 import busComonents from './components'
 const { Header, Content, Footer } = Layout;
-const { HyFeatures } = busComonents
+const { HyFeatures, HyCarousel } = busComonents
 
 moment.locale('zh-cn');
 
@@ -82,6 +82,7 @@ class App extends Component {
         <Content style={{ padding: '0 0px' }}>
           <HyCarousel />
           <HyFeatures />
+          <HyCarousel />
         </Content>
         <Footer style={{ textAlign: 'center' }}>Huanying Web ©2019 Created by Mathon Saoshouzi</Footer>
       </Layout>
