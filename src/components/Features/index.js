@@ -8,7 +8,7 @@ class Carousel extends Component {
       <div className="app">
         <div className='features'>
           <div className='features__introduction'>
-           <img src={require('src/assets/images/code.png')}/>
+           <img src={require('../../assets/images/code.png')} alt="介绍图" />
           </div>
           <div className='features__introduction features__introduction__two'>2</div>
           <div className='features__introduction features__introduction__three'>3</div>
