@@ -9,6 +9,8 @@
     float: left;
     margin: 0 1% 0 1%;
     border: 1px solid;
+    text-align: center;
+    padding: 3% 3% 3% 3%;
 }
 .features__introduction__two{
     width: 30%;
