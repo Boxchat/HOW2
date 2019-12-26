@@ -4,7 +4,7 @@
     margin: 0 5% 0 5%;
 }
 .features__introduction{
-    width: 30%;
+    width: 400px;
     height: 400px;
     float: left;
     margin: 0 1% 0 1%;
@@ -12,13 +12,13 @@
     padding: 3% 3% 3% 3%;
 }
 .features__introduction__two{
-    width: 30%;
+    width: 400px;
     height: 400px;
     float: left;
     margin: 0 1% 0 1%;
 }
 .features__introduction__three{
-    width: 30%;
+    width: 400px;
     height: 400px;
     float: left;
     margin: 0 1% 0 1%;
